@@ -1,6 +1,6 @@
 # Greek Escape — Travel Diary
 
-**Batch:** A7B2  
+**Batch:** A7-B1/B2 
 **Group:** G03  
 
 ## Links
@@ -8,10 +8,10 @@
 - **Live Website:** `https://[Anurag-A7-B2-41].github.io/cw-la-a7b2-g03/`
 
 ## Team Members
-- **[Roll No. 1] [Name 1]:** Intro slides & route map
-- **[Roll No. 2] [Name 2]:** Thessaloniki slides
-- **[Roll No. 3] [Name 3]:** Athens slides & Bootstrap website (`index.html`, `style.css`)
-- **[Roll No. 4] [Name 4]:** Chania slides, Credits slide & storyboard
+- **[Roll No. 39] [ASNA ALI]:** Intro slides & route map
+- **[Roll No. 41] [ANURAG SAHU]:** Thessaloniki slides
+- **[Roll No. 21] [YOGINI DHOK]:** Athens slides & Bootstrap website (`index.html`, `style.css`)
+- **[Roll No. 33] [ATHARV BAILMARE]:** Chania slides, Credits slide & storyboard
 
 ## About the Project
 A 16-slide visual travel story across Greece (**Thessaloniki**, **Athens**, and **Chania**) created in Figma and turned into a simple Bootstrap 5 carousel website (with no custom JavaScript).
